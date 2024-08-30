@@ -1,0 +1,1 @@
+This project contains recipes for lasagna, brownie, and butter chicken. While making this project, I have demonstrated numerous HTML skills, such as handling unordered and ordered lists, dealing with links and image tags, and creating an organized folder structure. This project was a lot of fun to do, and I have The Odin Project to thank for that!
