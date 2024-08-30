@@ -1,0 +1,17 @@
+* {
+    background-color: yellow;
+}
+
+h1 {
+    color: red;
+}
+
+.description {
+    color: green;
+}
+
+.recipe-link {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 1em;
+}
